@@ -1,4 +1,6 @@
-# 2048 - React
+# 2048 Game - ReactJS
+
+This is my first ReactJS project and took a couple of days to code after reading the basic of ReactJS.
 
 In the project directory, you can run:
 
