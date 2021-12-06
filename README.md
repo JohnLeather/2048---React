@@ -1,5 +1,5 @@
 # 2048 Game - React
-(document-images/screenshot.png)
+(document-images/Screenshot.png)
 This is my first ReactJS project and took a couple of days to code while reading the basic of React during development.
 
 In the project directory, you can run:
